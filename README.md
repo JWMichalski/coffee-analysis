@@ -13,7 +13,7 @@
 ## Maintainers
 
 ## Licence
-
+GNU General Public License v3.0
 ## Authors
 
 ## Acknowledgements
