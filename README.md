@@ -15,5 +15,6 @@
 ## Licence
 
 ## Authors
+The best group in the world
 
 ## Acknowledgements
